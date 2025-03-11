@@ -11,7 +11,7 @@ Below you can find links to the code, pipeline, and scripts for the publications
 - [Le Moine Bauer et al. (2023)](https://github.com/The-deep-biosphere/2023-Milos) Structure and metabolic potential of the prokaryotic communities from the hydrothermal system of Paleochori Bay, Milos, Greece.
 - Babel et al. (2025) Surtsey stuff
 - Hageman et al. (2025) First paper
-- [Møller et al. (2025)]((https://github.com/The-deep-biosphere/2025-GrowthRates)) In situ microbial growth rates in deep-sea sediments
+- [Møller et al. (2025)]((https://github.com/The-deep-biosphere/2025-GrowthRates) In situ microbial growth rates in deep-sea sediments
 
 
 
