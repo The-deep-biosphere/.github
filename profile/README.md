@@ -7,11 +7,11 @@ Welcome to the Github page of the Deep Biosphere group at the University of Berg
 ### Publications
 Below you can find links to the code, pipeline, and scripts for the publications of the Deep Biosphere group. Authors have done their best to allow for reproductibility of the work done and properly comment the code. However, note that none of us is informatician, and some code can surely be written more idiomatically.
 
-- [Møller et al. (2022)](https://github.com/The-deep-biosphere/2022-oxic_response) Mapping microbial abundance and prevalence to changing oxygen concentration in deep-sea sediments using machine learning and differential abundance
+- [Møller et al. (2022)](https://github.com/The-deep-biosphere/2022-oxic_response) Mapping microbial abundance and prevalence to changing oxygen concentration in deep-sea sediments using machine learning and differential abundance.
 - [Le Moine Bauer et al. (2023)](https://github.com/The-deep-biosphere/2023-Milos) Structure and metabolic potential of the prokaryotic communities from the hydrothermal system of Paleochori Bay, Milos, Greece.
 - Babel et al. (2025) Surtsey stuff
 - Hageman et al. (2025) First paper
-- [Møller et al. (2025)](https://github.com/The-deep-biosphere/2025-GrowthRates) In situ microbial growth rates in deep-sea sediments
+- [Møller et al. (2025)](https://github.com/The-deep-biosphere/2025-GrowthRates) In situ microbial growth rates in deep-sea sediments.
 
 
 
